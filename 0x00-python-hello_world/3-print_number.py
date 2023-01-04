@@ -1,4 +1,4 @@
-#!/usr/bii/python3
+#!/usr/bin/python3
 
 number = 98
 
