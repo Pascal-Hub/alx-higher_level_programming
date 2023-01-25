@@ -56,7 +56,7 @@ class SinglyLinkedList:
         self.__head = None
 
     def sorted_insert(self, value):
-        """Define sorted pointer to new node"""
+        """Define sorted insert"""
         ptr = self.__head
 
         while ptr is not None:
