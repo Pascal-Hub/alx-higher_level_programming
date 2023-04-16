@@ -6,4 +6,3 @@ const berton = 'JavaScript is amazing';
 console.log(alx);
 console.log(hol);
 console.log(berton);
-
