@@ -13,4 +13,3 @@ if __name__ == "__main__":
     [print(state) for state in cursor.fetchall()]
     cursor.close()
     db.close()
-
